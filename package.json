@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS_Static_Dynamic_Gen_gRPC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdiohakacy/NodeJS_Static_Dynamic_Gen_gRPC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stdiohakacy/NodeJS_Static_Dynamic_Gen_gRPC/issues"
+  },
+  "homepage": "https://github.com/stdiohakacy/NodeJS_Static_Dynamic_Gen_gRPC#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.3",
+    "grpc": "^1.24.2",
+    "proto-loader": "^0.2.0"
+  }
+}
